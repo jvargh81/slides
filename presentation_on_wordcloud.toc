@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Install and Load libraries}{3}{0}{1}
+\beamer@sectionintoc {2}{Hands on Project Gutenberg}{10}{0}{2}
+\beamer@sectionintoc {3}{Download Dracula the Book}{11}{0}{3}
+\beamer@sectionintoc {4}{Unpack the Words}{12}{0}{4}
+\beamer@sectionintoc {5}{The Bing Lexicon for sentiments}{13}{0}{5}
+\beamer@sectionintoc {6}{The Inner Join}{14}{0}{6}
+\beamer@sectionintoc {7}{Calculate Frequency for Wordcloud}{15}{0}{7}
+\beamer@sectionintoc {8}{Wordcloud}{16}{0}{8}
